@@ -1,7 +1,8 @@
 GeoIP2 Web Service Demo
 ----------------------
-Frontend based on Next.js
-Backend based on Slim Framework
+Frontend based on [Next.js](https://github.com/vercel/next.js/)
+
+Backend based on [Slim Framework](https://github.com/slimphp/Slim)
 
 Interaction between frontend and backend via HTTP API.
 
